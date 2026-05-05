@@ -13,7 +13,7 @@
   ## 🧭 &nbsp;About Me
 
   - 📚 Ing. en Sistemas Computacionales egresado de Unitec Cuitláhuac
-  - 🔭 Actualmente trabajo para <a href="https://www.michelin.com.mx/">Industrias Michelin</a> -->
+  - 🔭 Actualmente trabajo para <a href="https://www.michelin.com.mx/">Industrias Michelin</a>
 
   - 🌱 Estoy cursando una especialidad como **Desarrollador FullStack Java**.
 
