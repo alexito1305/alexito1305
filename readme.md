@@ -71,7 +71,7 @@
 5. **Proyecto chatbot** <a href="https://github.com/alexito1305/chatbot">Ir al repositorio</a>
    - Simulación de un chatbot interactivo usando javascript y css para presentarlo en una página web.
 
-6. **Proyecto conexión a API** <a href="https://github.com/alexito1305/API-AXIOS-DOGS"></a>
+6. **Proyecto conexión a API** <a href="https://github.com/alexito1305/API-AXIOS-DOGS">Ir al repositorio</a>
    - Conexión a una API desde una app web para mostrar la información obtenida y renderizada en un frontend.
 
 
