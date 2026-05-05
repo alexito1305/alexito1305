@@ -54,6 +54,26 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexito1305&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+<h1 align="center">Proyectos</h1></div>
+
+1. **Rest Client** <a href="https://github.com/alexito1305/ebac-rest-client-">Ir al repositorio</a>
+- Esta app permite consumir servicios Rest, usando tecnología RestTemplate o Feing. Obtenemos la informacion desde una BD.
+
+2. **Servicio REST** <a href="https://github.com/alexito1305/ProyectoSpringBootBasico/tree/modulo61">Ir al repositorio</a>
+- Aplicacion que usa maven y springboot. Usando perfiles dev y prod y persistencia de datos usando JPA/Hibernate
+  
+3. **Proyecto Biblioteca** <a href="https://github.com/alexito1305/proyectomavenbiblioteca">Ir al repositorio</a>
+- App que usa maven, se usaron patrones de diseño Singleton y factory method, pruebas unitarias con junit y agregando un docker compose para la persistencia a base de datos MySQL. 
+
+4. **Proyecto directorio telefónico** <a href="https://github.com/alexito1305/ebac-backend-java/tree/modulo59">Ir al repositorio</a>
+- App que permite agregar usuarios, teléfonos y direcciones en una BD relacional MySql/H2. Se utilizó springboot para crear el proyecto y se agregaron los starters correspondientes. Para agregar la data se utilizó CRUD básico.
+
+10. **Proyecto chatbot** <a href="https://github.com/alexito1305/chatbot">Ir al repositorio</a>
+   - Simulación de un chatbot interactivo usando javascript y css para presentarlo en una página web.
+
+11. **Proyecto conexión a API** <a href="https://github.com/alexito1305/API-AXIOS-DOGS"></a>
+   - Conexión a una API desde una app web para mostrar la información obtenida y renderizada en un frontend.
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
