@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/alexito1305/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
-</div>
+<h1 align="center">Hola 👋, Soy Alex Argüello</h1></div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexito1305&color=blueviolet" alt="Profile views" />
@@ -9,7 +7,6 @@
     <img src="https://img.shields.io/github/followers/alexito1305?style=social" alt="Followers" />
   </a>
 </p>
-
 
 <div>
 
