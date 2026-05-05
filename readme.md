@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,jquery,nodejs,java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,aws,firebase,netlify,git,insomnia,npm,vscode,ubuntu,windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,jquery,nodejs,java,spring,hibernate,maven,gradle,mysql,postgresql,mongodb,docker,aws,firebase,netlify,git,github,gitlab,idea,postman,npm,vscode,ubuntu,windows" />
 </a>
 </p>
 
