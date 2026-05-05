@@ -68,10 +68,10 @@
 4. **Proyecto directorio telefónico** <a href="https://github.com/alexito1305/ebac-backend-java/tree/modulo59">Ir al repositorio</a>
 - App que permite agregar usuarios, teléfonos y direcciones en una BD relacional MySql/H2. Se utilizó springboot para crear el proyecto y se agregaron los starters correspondientes. Para agregar la data se utilizó CRUD básico.
 
-10. **Proyecto chatbot** <a href="https://github.com/alexito1305/chatbot">Ir al repositorio</a>
+5. **Proyecto chatbot** <a href="https://github.com/alexito1305/chatbot">Ir al repositorio</a>
    - Simulación de un chatbot interactivo usando javascript y css para presentarlo en una página web.
 
-11. **Proyecto conexión a API** <a href="https://github.com/alexito1305/API-AXIOS-DOGS"></a>
+6. **Proyecto conexión a API** <a href="https://github.com/alexito1305/API-AXIOS-DOGS"></a>
    - Conexión a una API desde una app web para mostrar la información obtenida y renderizada en un frontend.
 
 
